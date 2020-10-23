@@ -8,6 +8,8 @@ El curso de github deja ver:
 *otro elemento de la lista
 *buenas practicas
 * CREADO POR EL INCREIBLE PLATZI TEAM
+* Incluye ejemplos en W,L & M
+* disponible para every ages
 
 gfhsdjfgdhskfsgj: **ajshjhdkshajkld**. Etc, etc.[logo udenar](https://www.udenar.edu.co/recursos/wp-content/uploads/2016/10/logo-ppal-movil.fw_-1.png "logo udenar")
 
