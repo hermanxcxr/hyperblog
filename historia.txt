@@ -7,8 +7,12 @@ está es su vida
 
 Master 1
 
+<<<<<<< HEAD
 Master 2
 
 Experimento 1
 
 Experiemtno 2
+=======
+Master 2
+>>>>>>> 6db5861... Master 2
